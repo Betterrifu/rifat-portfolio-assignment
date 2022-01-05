@@ -37,6 +37,7 @@ h2{
 }
 .sec-page-width{
     display: flex;
+    margin-bottom: 100px;
 }
 .sec-page-width img{
     width: 33.33%;
@@ -58,4 +59,37 @@ h2{
     border-radius: 20px;
     margin: 15px 15px;
     padding: 15px;
+}
+.third-page{
+    display: flex;
+    width: 90%;
+    margin-bottom: 100px;
+}
+.third-page-first-width img{
+    width: 70%;
+}
+.third-page-sec-width{
+    text-align: justify;
+    margin-top: -45px;
+}
+h5{
+    font-size: 40px;
+}
+.fourth-page{
+    display: flex;
+    width: 80%;
+    margin-bottom: 100px;
+}
+.fourth-page-sec img{
+    width: 80%;
+    margin-left: 80px;
+}
+footer{
+    background-color: rgb(5, 5, 44);
+    text-align: center;
+    color: white;
+    padding: 5px;
+}
+#footer-year{
+    color: tomato;
 }
