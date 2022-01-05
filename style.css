@@ -1,0 +1,61 @@
+body{
+    font-family: 'Roboto Slab', serif;
+    padding: 20px;
+    margin: 50px;
+}
+h1{
+    font-size: 50px;
+    border-left: 4px solid rgb(243, 25, 25);
+    padding-left: 15px;
+}
+h2{
+    font-size: 40px;
+    text-align: center;
+}
+.mission-color{
+    color: orange;
+}
+.button{
+    text-decoration: none;
+    text-align: center;
+    color: white;
+    background-color: rgb(243, 25, 25);
+    padding: 15px;
+    border-radius: 10px;
+}
+.first-page{
+    display: flex;
+    margin: 40px;
+}
+.half-width{
+    width: 50%;
+    text-align: justify;
+}
+.half-width img{
+    width: 70%;
+    margin-left: 100px;
+}
+.sec-page-width{
+    display: flex;
+}
+.sec-page-width img{
+    width: 33.33%;
+}
+.sec-width-mission{
+    background-color: paleturquoise;
+    border-radius: 20px;
+    margin: 15px 15px;
+    padding: 15px;
+}
+.sec-width-vission{
+    background-color: plum;
+    border-radius: 20px;
+    margin: 15px 15px;
+    padding: 15px;
+}
+.sec-width-goals{
+    background-color: slateblue;
+    border-radius: 20px;
+    margin: 15px 15px;
+    padding: 15px;
+}
